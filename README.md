@@ -1,3 +1,3 @@
 - The title of the project: *Guessing game*
-- The date and time at which make was run: *Sun Jun 25 16:20:35 FLEDT 2023*
-- The number of lines of code contained in guessinggame.sh: *24*
+- The date and time at which make was run: *Sun Jun 25 18:16:31 EEST 2023*
+- The number of lines of code contained in guessinggame.sh: *35*
