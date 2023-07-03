@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function GetNumFiles {
-	echo $(find . -maxdepth 1 -type f  | wc -l)
+	echo $(ls -la | grep "^-" | wc -l)
 }
 
 function PrintRules {
